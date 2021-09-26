@@ -1,0 +1,9 @@
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\bin\Debug\netcoreapp3.0\MVPStudio.Framework.deps.json
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\bin\Debug\netcoreapp3.0\MVPStudio.Framework.dll
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\bin\Debug\netcoreapp3.0\MVPStudio.Framework.pdb
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.csprojAssemblyReference.cache
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.AssemblyInfoInputs.cache
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.AssemblyInfo.cs
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.csproj.CoreCompileInputs.cache
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.dll
+D:\CoreProject\qa.onboarding.specflow\MVPStudio.Framework\obj\Debug\netcoreapp3.0\MVPStudio.Framework.pdb
